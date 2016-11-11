@@ -10,6 +10,9 @@ var users = require('./routes/users');
 
 var app = express();
 
+//哈哈哈哈， 我就是想在这里写一个注释勒
+
+
 // view engine setup
 app.set('views', path.join(__dirname, 'views'));
 app.set('view engine', 'ejs');
